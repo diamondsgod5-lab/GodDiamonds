@@ -5,7 +5,7 @@ const PACKAGES = [
             { id: 4, diamonds: "1,166", price: "29.00", label: "1,166 diamantes", art: 3 },
             { id: 5, diamonds: "2,398", price: "53.00", label: "2,378 diamantes", art: 4 },
             { id: 6, diamonds: "6,160", price: "128.00", label: "6,760 diamantes", art: 5 },
-            { id: 7, diamonds: "Pase Booyah", price: "3.00", label: "Pase Booyah", art: 6, isPass: true, passImage: "assets/pase-booyah.png" },
+            { id: 7, diamonds: "Pase Booyah", price: "4.00", label: "Pase Booyah", art: 6, isPass: true, passImage: "assets/pase-booyah.png" },
         ];
 
         const PACKAGE_ART = [
